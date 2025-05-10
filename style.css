@@ -1,0 +1,35 @@
+/* Element selector */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* ID selector */
+#main-title {
+  color: navy;
+  border: 2px solid navy;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Class selector */
+.intro-text {
+  color: #333;
+  background-color: #e0e0e0;
+  padding: 10px;
+  border-left: 4px solid #999;
+  margin-bottom: 15px;
+}
+
+/* Image styling */
+.styled-image {
+  border: 3px solid #650;
+  width: 900px;
+  height: 600px;
+  margin: 10px 0;
+  padding: 5px;
+  display: block;
+
+}
